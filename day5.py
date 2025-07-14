@@ -1,6 +1,12 @@
 print("Movie Character Guesser")
 print()
 
+college = input("Do you have meaningful/impactful extracurriculars?")
+if college == "yes":
+    print("that makes sense")
+else:
+	print("""you're cooked lil bro""")
+
 spiderman = input("Do you like hanging around?")
 if spiderman == "yes":
     print("hello spiderman!")
@@ -17,4 +23,4 @@ strange = input("can you do magic?")
 if strange == "yes":
     print("nice")
 else:
-    print("I guess you aren't super after all :()")
+    print("I guess you aren't super after all :(")
