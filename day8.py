@@ -1,7 +1,7 @@
 print("Statement Generator")
 print("====================")
 name = input("what is your name?")
-if name == "dave" or name == "Dave" or name == "dong":
+if name == "bob" or name == "Bob" or name == "blob":
     print("Hello")
 else:
     print("that's not your name")
