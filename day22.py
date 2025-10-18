@@ -28,5 +28,5 @@ while True:
             print("Keep guessing!")
     play_again = input("Do you want to play again? (y/n): ").strip().lower()
     if play_again != 'y':
-        print(f"Thanks for playing! Your final score is {score}.")
+        print(f"Thanks for playing! Your final score is {score}. Sorry for wasting your time")
         break
