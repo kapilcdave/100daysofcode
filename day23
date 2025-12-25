@@ -1,0 +1,8 @@
+import time
+from time import sleep
+
+print("welcome to the speed typing test)
+ sleep(1)
+ print("The test will start in 3 seconds")
+
+ 
